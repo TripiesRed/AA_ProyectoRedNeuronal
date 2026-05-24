@@ -6,7 +6,7 @@ Proyecto para la asignatura de **Aprendizaje Automático** impartida en la **UCM
 
 Este proyecto analiza el impacto de los hábitos de los estudiantes en su rendimiento académico y clasifica sus calificaciones finales en cuatro categorías: *Failed*, *Average*, *Good* y *Excellent*. Se implementan y comparan dos enfoques de Machine Learning construidos desde cero:
 
-- **Red Neuronal Artificial (ANN)** con retropropagación y Early Stopping.
+- **Red Neuronal implementada en NumPy (NN)** con retropropagación y Early Stopping.
 - **SVM con Kernel Gaussiano (RBF)** de scikit-learn.
 
 El flujo de trabajo incluye descarga automática del dataset, preprocesamiento, optimización de hiperparámetros mediante *Grid Search*, evaluación sobre un conjunto de test independiente, reducción de dimensionalidad con **PCA** para visualización y análisis de importancia de características.
