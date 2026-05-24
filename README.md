@@ -65,7 +65,7 @@ El flujo de trabajo incluye descarga automática del dataset, preprocesamiento, 
 
 ## 🤖 Modelos
 
-### Red Neuronal Artificial (ANN)
+### Red Neuronal con NumPy (NN)
 
 Arquitectura de **dos capas** (una oculta + salida):
 
